@@ -1,11 +1,8 @@
 # Tim-Berners-Lee
-Software Engineering; Fall 2025 Project
+Fall 2025 - Software Engineering
 
 ## Authors
-Alex Griep
-
-Connor McGuire
-
-Neng Yang
-
-Arthur Waldman
+-Alex Griep
+-Connor McGuire
+-Neng Yang
+-Arthur Waldman
